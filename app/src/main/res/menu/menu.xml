@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/addCrime"
+        android:title="Добавить преступление"/>
+    <item android:id="@+id/listCrimes"
+        android:title="Список преступлений"/>
+</menu>
